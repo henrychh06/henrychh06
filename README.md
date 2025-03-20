@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, my name is Henry Chuchullo. I am from the Peruvian University of Applied Sciences taking BS in Information Systems Engineering.
+Hello, my name is Henry Gallegos. I am from the Peruvian University of Applied Sciences taking BS in Information Systems Engineering.
 ...
 <!--
 **henrychh06/henrychh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
